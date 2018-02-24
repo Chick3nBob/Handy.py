@@ -1,1 +1,1 @@
-echo worker: python handy.py
+echo worker: python worker.py > Procfile
